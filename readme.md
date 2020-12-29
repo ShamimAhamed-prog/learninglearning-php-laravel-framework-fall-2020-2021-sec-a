@@ -1,6 +1,6 @@
 # Final Lab Exam
 
-## Completed All Features
+##  Features
 
 -   Admin Login
 -   Admin Can Add Employee
@@ -14,4 +14,3 @@
 -   Use Server Side validation All The Page
 -   Also NULL Validation on Update Operation
 
-### database in (Final_Lab_Exam/db_file)
